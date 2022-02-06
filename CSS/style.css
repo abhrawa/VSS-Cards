@@ -1,0 +1,36 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #fef8f5;
+    font-family: sans-serif;
+}
+.headings
+{
+    text-align: center;
+}
+.imageboxcontainer
+{
+    display: flex;
+    padding: 30px;
+}
+.main-box{
+  
+  padding: 30px;
+  text-align: center;
+  width: 280px;
+  height: 380px;
+  margin: 30px;
+  border-radius: 20px;
+  background-color: white;
+  box-shadow: 0 0px 29px 0 rgb(68 88 144 / 10%)
+  
+  
+}
+.btmpart
+{
+  text-align: center;
+
+}
+.main-box:hover {
+    box-shadow: 0 2px 0px 0 #fd7e14;
+  }
